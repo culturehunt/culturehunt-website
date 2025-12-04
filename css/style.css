@@ -60,13 +60,6 @@ header {
     cursor: pointer;
     transition: all 0.3s;
     border-radius: 10px;
-}
-
-.sub-link {
-    font-size: 0.8rem;
-    color: var(--button-blue);
-    text-decoration: underline;
-    font-weight: 600;
-    display: block;
-    margin-bottom: 50px;
+    border: 0px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
 }
