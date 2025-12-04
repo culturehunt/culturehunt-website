@@ -128,7 +128,7 @@ footer {
     display: flex;
     flex-direction: column;
 }
-.timeline-elements h3{
+.timeline-element h3{
     font-size: 1.5rem;
 }
 .timeline-element{
@@ -162,10 +162,14 @@ footer {
 }
 .timeline-element-text{
     padding: 5px;
+    color: #1A382A;
 }
 .timeline-element-button{
+    margin-top: 10px;
     background-color: #1A382A;
     color:#FFF7DD;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 @media (max-width: 768px) {
@@ -174,6 +178,9 @@ footer {
   }
   .nav-links {
     display: none;
+  }
+  .nav-dropdowns {
+    display: flex;
   }
   .timeline-section{
     flex-direction: column;
