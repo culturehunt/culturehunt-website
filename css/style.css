@@ -103,6 +103,9 @@ footer {
 .timeline-section{
     display: flex;
 }
+.timeline{
+    display: flex;
+}
 .timeline-line{
     width: 15px;
     height: auto;
@@ -125,7 +128,8 @@ footer {
     font-weight: 600;
     border-radius: 10px;
     border: 0px;
-    margin: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
 }
 .timeline-element-text{
     padding: 5px;
@@ -141,5 +145,8 @@ footer {
   }
   .nav-links {
     display: none;
+  }
+  .timeline-section{
+    flex-direction: column;
   }
 }
