@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #FFF7DD;
     font-family: 'Archivo Black', sans-serif;
