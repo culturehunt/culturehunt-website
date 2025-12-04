@@ -179,9 +179,6 @@ footer {
   .nav-links {
     display: none;
   }
-  .nav-dropdowns {
-    display: flex;
-  }
   .timeline-section{
     flex-direction: column;
   }
