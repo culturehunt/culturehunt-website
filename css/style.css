@@ -12,7 +12,7 @@ body {
 nav{
     position: sticky;
     width: 100%;
-    top: 0;
+    top: 5px;
     box-sizing: border-box;
     display: flex;
     justify-content: space-between;
