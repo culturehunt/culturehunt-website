@@ -28,6 +28,7 @@ nav{
     margin-left: 20px;
     color: var(--text-grey);
     font-size: 0.7rem;
+    text-decoration: none;
 }
 header {
     text-align: center;
