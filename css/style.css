@@ -69,6 +69,10 @@ header {
     padding: 10px 25px;
     border-radius: 10px;
     margin-bottom: 15px;
+
+    text-align: left;
+}
+.description h1{
 }
 .buttons {
     display: flex;
@@ -266,4 +270,13 @@ footer {
 
 .nascondi{
     display: none;
+}
+#obiettivo{
+    scroll-margin-top: 80px;
+}
+#risorse{
+    scroll-margin-top: 80px;
+}
+#team{
+    scroll-margin-top: 80px;
 }
