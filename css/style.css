@@ -4,8 +4,13 @@ html {
 
 body {
     background-color: #FFF7DD;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .title, .nav-brand {
     font-family: 'Archivo Black', sans-serif;
 }
+
 .container {
     max-width: 1100px;
     padding: 0 20px;
